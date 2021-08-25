@@ -1,1 +1,2 @@
-# GIS_Snowfall_Analysis
+# Massachusetts Snowfall Analysis
+Take a look at <a href="https://github.com/Scott-Crawshaw/GIS_Snowfall_Analysis/blob/main/ScrapeData.ipynb">ScrapeData.ipynb</a> to walk through the questions, code, and results.
